@@ -17,6 +17,9 @@ h1,h2,h3,h4,h5,h6 {
 	list-style:none;
 	line-height:inherit;
 }
+.black-text-shadow {
+   text-shadow: black 0 -10px;
+}
 .text-left {
 	text-align:left !Important;
 }
