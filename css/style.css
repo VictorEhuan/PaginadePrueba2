@@ -84,6 +84,7 @@ header .navbar-white {
 	font-family:Dosis;
 }
 .text-pageheader {
+	text-shadow: black 0 -2px;
 	 text-align:center;
 	color:#fff;
 	z-index:2;
